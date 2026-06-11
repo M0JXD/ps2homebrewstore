@@ -97,6 +97,24 @@ hide:
 
     [:material-cloud-download: SMS](https://downloads.ps2homebrewstore.com/SAS/APP_SMS.psu)
 
+-   __wLaunch ELF (R3Z3N's Fork)__![sas-psu_pic][umcs-zip]{ width="75" }
+
+    ---
+
+    [![wLE_Pic](assets/wle_isr.png)](https://github.com/saildot4k/wLaunchELF_R3Z){:target="_blank"}
+    __RECOMMENDED for both PS2 AND PSX__
+
+    File manager with support for all devices:  
+    Memory Card, USB, MMCE, MX4SIO, APA HDD, exFAT HDD, XFROM, DVR, UDPFS  
+    Hides devices that your console does not support
+    RetroGem Game ID and more...
+
+
+    [:material-cloud-download: BOOT Folder](https://downloads.ps2homebrewstore.com/SAS/BOOT.psu)  
+    Part of [UMCS](/docs/umcs/index.md) as BOOT2.ELF
+
+[WLE-ISR-COMBINED]: https://downloads.ps2homebrewstore.com/SAS/APP_WLE-ISR-COMMON.zip
+
 
 -   __wLaunch ELF (El Isra's Fork)__![sas-psu_pic][sas-zip]{ width="75" }
 
@@ -104,9 +122,7 @@ hide:
 
     [![wLE_Pic](assets/wle_isr.png)](https://github.com/israpps/wLaunchELF_ISR){:target="_blank"}
 
-    File manager with support for multiple devices.  
-
-    __RECOMMENDED__
+    File manager with support for multiple devices per build.  
 
     __XF__ - exFAT USB  
     __MM__ - MMCE  
@@ -252,14 +268,14 @@ hide:
 
     A fork of [El Isras PS2BBL](https://github.com/israpps/PlayStation2-Basic-BootLoader).  
 
-    Launch keys/autoboot for PS2/PSX with OSDMenu features baked in: arg support, custom user logo, eGSM, PS1Vmode Negator and RetroGem visual Game ID.  
+    Launch keys/autoboot for PS2/PSX with OSDMenu features baked in: arg support, custom user logo, eGSM, PS1Vmode Negator and RetroGem visual Game ID
     Can also be used as a forwarder. 
 
  
-    Base support is Memory Card, USB (FAT32/exFAT) + choice. This is part of the core of UMCS.
+    Supports Memory Card, USB, MMCE, MX4SIO, APA HDD, exFAT HDD
 
-    [:material-cloud-download: BOOT](https://downloads.ps2homebrewstore.com/SAS/BOOT.psu), [:material-cloud-download: BOOT MMCE](https://downloads.ps2homebrewstore.com/SAS/BOOT-MMCE.psu) [:material-cloud-download: BOOT MX4SIO](https://downloads.ps2homebrewstore.com/SAS/BOOT-MMCE.psu) or [:material-cloud-download: BOOT HDD](https://downloads.ps2homebrewstore.com/SAS/BOOT-HDD.psu)
-
+    [:material-cloud-download: BOOT](https://downloads.ps2homebrewstore.com/SAS/BOOT.psu)  
+    Part of [UMCS](/docs/umcs/index.md) as BOOT2.ELF
 
 -   __FreeMCBoot Decrypted__![sas-psu_pic][sas-psu]{ width="75" }
 
@@ -369,7 +385,7 @@ hide:
 [non-sas-ext]: ../assets/badges/NOTSASCOMPLIANTEXTLINK.png
 
 [umcs-psu]: ../assets/badges/UMCSPSU.png
-[umcs-zip]: ../assets/badges/UMCS7ZIP.png
+[umcs-zip]: ../assets/badges/UMCSZIP.png
 [umcs-7z:]: ../assets/badges/UMCS7Z.png
 [umcs-7zip]: ../assets/badges/UMCS7ZIP.png
 [umcs-rar]: ../assets/badges/UMCSRAR.png

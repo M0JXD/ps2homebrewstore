@@ -50,11 +50,11 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
 
     - __`mc?:/BOOT/BOOT.ELF`__  
-        PS2BBL hotkeys and autoboot. Used to standardize both for all exploit types and apps that look for this path, which allows user to forward to another app using hotkeys. May have additional MMCE or MX4SIO drivers.
+        PS2BBL hotkeys and autoboot. Used to standardize both for all exploit types and apps that look for this path, which allows user to forward to another app using hotkeys. Supports all devices.
 
 
     - __`mc?:/BOOT/BOOT2.ELF`__  
-        wLE ISR exFAT file browser / ELF launcher
+        wLE R3Z file browser / ELF launcher
 
 
     !!! info "Pair the BOOT folder with your exploit"
@@ -204,7 +204,7 @@ graph LR
 [non-sas-ext]: ../assets/badges/NOTSASCOMPLIANTEXTLINK.png
 
 [umcs-psu]: ../assets/badges/UMCSPSU.png
-[umcs-zip]: ../assets/badges/UMCS7ZIP.png
+[umcs-zip]: ../assets/badges/UMCSZIP.png
 [umcs-7z:]: ../assets/badges/UMCS7Z.png
 [umcs-7zip]: ../assets/badges/UMCS7ZIP.png
 [umcs-rar]: ../assets/badges/UMCSRAR.png

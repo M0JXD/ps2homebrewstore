@@ -67,7 +67,7 @@ hide:
 [non-sas-ext]: ../assets/badges/NOTSASCOMPLIANTEXTLINK.png
 
 [umcs-psu]: ../assets/badges/UMCSPSU.png
-[umcs-zip]: ../assets/badges/UMCS7ZIP.png
+[umcs-zip]: ../assets/badges/UMCSZIP.png
 [umcs-7z:]: ../assets/badges/UMCS7Z.png
 [umcs-7zip]: ../assets/badges/UMCS7ZIP.png
 [umcs-rar]: ../assets/badges/UMCSRAR.png
