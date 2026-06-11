@@ -275,7 +275,7 @@ hide:
     Supports Memory Card, USB, MMCE, MX4SIO, APA HDD, exFAT HDD
 
     [:material-cloud-download: BOOT](https://downloads.ps2homebrewstore.com/SAS/BOOT.psu)  
-    Part of [UMCS](/docs/umcs/index.md) as BOOT2.ELF
+    Part of [UMCS](/docs/umcs/index.md) as BOOT.ELF
 
 -   __FreeMCBoot Decrypted__![sas-psu_pic][sas-psu]{ width="75" }
 
