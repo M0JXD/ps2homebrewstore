@@ -156,7 +156,19 @@ hide:
 
     [:octicons-link-external-16: XEB+ Neutrino Loader plugin by Sync On Luma](https://github.com/sync-on-luma/xebplus-neutrino-loader-plugin)
 
-    
+
+-   __PS2ESDL__![nonsas-ext_pic][non-sas-ext]{ width="75" }
+
+    ---
+
+    [![PS2ESDL_Pic](assets/ps2esdl.png)](https://sites.google.com/view/ysai187/home/projects/ps2esdl){:target="_blank"}
+
+    Playstation 2 External Storage Device Game Loader (PS2ESDL) is allows the user to load games from an USB device.
+
+    [:octicons-link-external-16: PS2ESDL](https://sites.google.com/view/ysai187/home/projects/ps2esdl)
+
+    [:material-file-document: User Guide](https://sites.google.com/view/ysai187/home/projects/ps2esdl/user-guide)
+
 
 </div>
 
